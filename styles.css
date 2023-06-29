@@ -128,8 +128,14 @@ footer {
   margin-top: 5px;
   width: 80%;
   margin-left:10%;
+  align-items: center;
 }
 
 #signup {
   margin-left:10%;
+}
+
+#response {
+  flex: 1;
+  width: 80%;
 }
